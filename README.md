@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/SalvadorGutierrezR)
 
-- ⚡ Who am I? [I'm a Software Engineering student that loves to learn everything I can. Right now I'm loving learning and using React Native, and I'm highly interested in Data.](I'm a Software Engineering student that loves to learn everything I can. Right now I'm loving learning and using React Native, and I'm highly interested in Data.)
+- ⚡ Who am I? I'm a Software Engineering student that loves to learn everything I can. Right now I'm loving learning and using React Native, and I'm highly interested in Data.
 
 - 📫 How to reach me **chava_gutierrez_@hotmail.com or salvador.gutierrez.is@unipolidgo.edu.mx**
 
