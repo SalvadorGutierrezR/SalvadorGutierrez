@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Salvador Gutiérrez Romo</h1>
 <h3 align="center">A passionate Software Engineering student from Durango, México</h3>
 
-- 🔭 I’m currently working on [A mobile app proposition for Re/Max](https://www.figma.com/file/xn2R9K9lu5Rc065qq3s9S0/ReMax-App?node-id=0%3A1)
+- 🔭 I’m currently working on studying Data Analysis and Data Science.
 
-- 🌱 I’m currently learning **TensorFlow, Blockchain Technologies, Spring**
+- 🌱 I’m currently learning **TensorFlow, Data Analysis, SQL**
 
-- 🤖 I’m interested in **Mobile development, Data Science and Blockchain**
+- 🤖 I’m interested in **Mobile development and Data**
 
-- 👨‍💻 All of my projects are available at [My GitHub Profile](My GitHub Profile)
+- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/SalvadorGutierrezR)
 
-- ⚡ Who am I? [I'm a Software Engineering student that loves to learn everything I can. Right now I'm loving learning and using React Native, and I'm highly interested in Data Science and Blockchain.](I'm a Software Engineering student that loves to learn everything I can. Right now I'm loving learning and using React Native, and I'm highly interested in Data Science and Blockchain.)
+- ⚡ Who am I? [I'm a Software Engineering student that loves to learn everything I can. Right now I'm loving learning and using React Native, and I'm highly interested in Data.](I'm a Software Engineering student that loves to learn everything I can. Right now I'm loving learning and using React Native, and I'm highly interested in Data.)
 
 - 📫 How to reach me **chava_gutierrez_@hotmail.com or salvador.gutierrez.is@unipolidgo.edu.mx**
 
